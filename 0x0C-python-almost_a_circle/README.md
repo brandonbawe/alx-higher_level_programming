@@ -26,3 +26,4 @@ Inside `tests/test_models` folder:
 | `test_base.py` | Module that contains unittests to `Base` class |
 | `test_rectangle.py` | Module that contains unittests to `Rectangle` class |
 | `test_square.py` | Module that contains unittests to `Square` class |
+
